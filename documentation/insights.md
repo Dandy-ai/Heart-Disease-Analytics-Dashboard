@@ -51,33 +51,33 @@ These observations describe patterns within the dataset and should not be interp
 
 ## 3. Risk Factor Analysis
 
-The Risk Factor Analysis dashboard explores lifestyle and behavioral characteristics.
+The Risk Factor Analysis dashboard explores lifestyle, behavioral, and family-history factors and their observed associations with heart disease within the dataset.
 
 ### Sugar Consumption
 
-Higher sugar-consumption categories showed higher observed heart disease rates compared with lower categories in the dataset.
+The **High Consumers** category showed the highest displayed heart disease rate among the sugar-consumption groups, at approximately **20.9%**.
 
 ### Exercise Habits
 
-The analysis showed a higher observed heart disease rate within the high-exercise category compared with some other exercise categories.
+The **Medium Group** showed the highest displayed heart disease rate among the exercise categories, at approximately **20.4%**.
 
-This represents an observed pattern in the dataset and does not establish that higher exercise causes higher heart disease risk. Other variables or characteristics within the dataset may contribute to the observed difference.
+This represents an observed pattern within the dataset and does not establish that a particular level of exercise causes a higher or lower risk of heart disease.
 
 ### Smoking
 
-The smoking analysis showed a higher observed heart disease rate among participants classified as smokers compared with those classified as non-smokers.
+The **Smokers** category showed an observed heart disease rate of approximately **20.2%**.
 
 ### Alcohol Consumption
 
-Heart disease rates varied across the different alcohol-consumption categories.
+The **High Consumers** category showed the highest displayed heart disease rate among the alcohol-consumption categories, at approximately **21.0%**.
 
-The analysis also identified a small number of records where alcohol consumption was not stated, which was examined further in the Data Integrity Audit.
+The dataset also contains records where alcohol consumption was recorded as **Not Stated**, which was examined further in the Data Integrity Audit.
 
 ### Stress Level
 
-The medium-stress category showed the highest observed heart disease rate among the stress categories in the dataset.
+The **Medium Group** showed the highest displayed heart disease rate among the stress-level categories, at approximately **21.6%**.
 
-This finding represents an association observed in the available records and does not establish a causal relationship between stress level and heart disease.
+This is an observed association within the dataset and should not be interpreted as evidence that a particular stress level causes heart disease.
 
 ### Sleep
 
@@ -87,19 +87,19 @@ Sleep duration was grouped into:
 * Normal
 * High
 
-The observed heart disease rates were relatively close across the three categories, with the normal-sleep category showing a slightly higher rate than the low- and high-sleep categories.
+The observed heart disease rates were relatively close across the three categories, with the **Normal** sleep category showing a slightly higher rate than the Low and High categories.
 
 ### Family History
 
-The analysis compared participants with and without a reported family history of heart disease.
+The **No Family History** category showed a slightly higher displayed heart disease rate than the Yes category, at approximately **20.4%**.
 
-The observed rates were relatively close between the two groups, with the group without a reported family history showing a slightly higher observed rate in this dataset.
+The difference between the two groups was relatively small, so this result should be interpreted as an observed pattern within this dataset rather than a causal finding.
 
 ---
 
 ## 4. Demographic Disparity
 
-The Demographic Disparity dashboard examines observed heart disease rates across age and gender groups.
+The Demographic Disparity dashboard examines observed heart disease rates across age, gender, and family-history groups.
 
 ### Age
 
@@ -111,20 +111,38 @@ The analysis grouped participants into five age categories:
 * Older Adult
 * Senior
 
-This grouping provides a clearer view of how observed heart disease rates vary across different stages of adulthood.
+The **Adult** category recorded the highest displayed age-group heart disease rate at approximately **21.91%**.
+
+The other observed rates were:
+
+* Young Adult: **19.26%**
+* Middle-Aged: **18.61%**
+* Older Adult: **20.99%**
+* Senior: **18.05%**
 
 ### Gender
 
-The observed heart disease rate was approximately:
+The observed heart disease rates were:
 
-* **Female:** 20.74%
-* **Male:** 19.35%
+* **Female: 20.74%**
+* **Male: 19.35%**
 
-This represents a difference of approximately **1.39 percentage points** between the two groups.
+This represents a difference of approximately **1.39 percentage points**, with the female group showing the higher observed rate in this dataset.
 
 ### Age and Gender
 
-The combined age-and-gender analysis provides additional context by showing how gender patterns vary across different age groups.
+The combined age-and-gender analysis provides additional context by showing how the observed gender patterns vary across the five age groups.
+
+For example, the Adult group showed observed rates of approximately **23.12% for females** and **20.72% for males**, while the Older Adult group showed very similar observed rates of approximately **20.99% for females** and **20.98% for males**.
+
+### Family History
+
+The dashboard also shows the observed heart disease rates by family-history status:
+
+* **No Family History: 20.39%**
+* **Yes: 19.70%**
+
+This represents a difference of approximately **0.69 percentage points**, with the No Family History group showing the higher observed rate in this dataset.
 
 ---
 
