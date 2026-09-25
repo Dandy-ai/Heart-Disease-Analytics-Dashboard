@@ -16,7 +16,7 @@ An interactive **Power BI dashboard** designed to analyze heart disease patterns
   * [4. Demographic Disparity](#4-demographic-disparity)
   * [5. Data Integrity Audit](#5-data-integrity-audit)
 * [Key Insights](#-key-insights)
-* [Tools & Technologies](#-tools-&-technologies)
+* [Tools & Technologies](#-tools--technologies)
 * [Dashboard Preview](#-dashboard-preview)
 * [Repository Structure](#-repository-structure)
 * [Project Files](#-project-files)
