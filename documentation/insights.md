@@ -117,8 +117,8 @@ This grouping provides a clearer view of how observed heart disease rates vary a
 
 The observed heart disease rate was approximately:
 
-* **Female:** 19.35%
-* **Male:** 20.74%
+* **Female:** 20.74%
+* **Male:** 19.35%
 
 This represents a difference of approximately **1.39 percentage points** between the two groups.
 
