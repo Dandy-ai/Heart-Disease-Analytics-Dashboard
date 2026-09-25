@@ -20,7 +20,6 @@ An interactive **Power BI dashboard** designed to analyze heart disease patterns
 * [Dashboard Preview](#-dashboard-preview)
 * [Repository Structure](#-repository-structure)
 * [Project Files](#-project-files)
-* [Author](#-author)
 
 ---
 
@@ -242,14 +241,6 @@ heart-disease-analytics-dashboard/
 The repository contains dashboard previews and supporting project documentation.
 
 The original **Power BI `.pbix` source file is not publicly distributed**. This keeps the underlying dashboard development file private while allowing the project, visualizations, methodology, and analytical findings to be showcased publicly.
-
----
-
-## 👤 Author
-
-**Okafor Gift Chukwudi**
-
-**Data Analytics | Data Science | Power BI | Python**
 
 ---
 
