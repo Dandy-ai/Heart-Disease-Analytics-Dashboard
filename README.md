@@ -105,9 +105,6 @@ The findings represent **observed associations within the dataset** and should n
 ```text
 heart-disease-analytics-dashboard/
 │
-├── dashboard/
-│   └── Heart_Disease_Analytics.pbix
-│
 ├── screenshots/
 │   ├── dashboard-1-prevalence-analysis.png
 │   ├── dashboard-2-biomarker-sensitivity.png
