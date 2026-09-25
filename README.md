@@ -117,3 +117,9 @@ heart-disease-analytics-dashboard/
 │
 └── data/
     └── README.md
+```
+
+## 📦 Project Files
+
+The repository contains dashboard screenshots and project documentation.
+The Power BI source file is not publicly distributed.
